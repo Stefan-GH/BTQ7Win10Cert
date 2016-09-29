@@ -38,8 +38,8 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   We recommend the starter kit [MSC Q7-SK-BT-EP6][lnk-msc-q7-sk-bt-ep6]
-- 	For detailed information see [MSC Q7-BT][lnk-support-msc-q7-bt]
+-   We recommend to use the starter kit [MSC Q7-SK-BT-EP6][lnk-msc-q7-sk-bt-ep6]
+- 	For detailed information please see [MSC Q7-BT][lnk-support-msc-q7-bt]
 -   Install Windows 10 and Visual Studio 2015 (any version, including Community edition) on the MSC Q7-BT device.
 
 <a name="Build"></a>

@@ -54,7 +54,7 @@ You should have the following items ready before beginning the process:
 
         private const string DeviceConnectionString = "<replace>";
         
--   Replace `<replace>` with the connection string for your device (see [Provision your device and get its credentials][lnk-manage-iot-hub], chapter **"Use the Device Explorer tool to provision a device"**, item 5.)
+-   Replace `<replace>` with the connection string for your device.
 -   In **Solution Explorer**, right-click the **DeviceClientAmqpSample** project, click **Debug**, and then click **Start new instance** to build and run the sample. The console displays messages as the application sends device-to-cloud messages to IoT Hub.
 -   Use the **DeviceExplorer** utility to observe the messages IoT Hub receives from the **Device Client AMQP Sample** application.
 -   Refer "Monitor device-to-cloud events" in [DeviceExplorer Usage document](https://github.com/Azure/azure-iot-sdks/blob/master/tools/DeviceExplorer/doc/how_to_use_device_explorer.md) to see the data your device is sending.

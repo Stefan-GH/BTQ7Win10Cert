@@ -4,7 +4,7 @@ device: MSC Q7-BT
 language: csharp
 ---
 
-Run a simple Csharp sample on MSC Q7-BT device running Windows 10
+Run a simple csharp sample on MSC Q7-BT device running Windows 10
 ===
 ---
 

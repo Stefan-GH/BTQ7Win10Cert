@@ -33,12 +33,13 @@ You should have the following items ready before beginning the process:
 -   [Prepare your development environment][setup-devbox-windows]
 -   [Setup your IoT hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials][lnk-manage-iot-hub]
--   MSC Q7-BT device.
+-   MSC Q7-BT device and baseboard.
 
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   Please follow the instructions from [MSC Q7-BT Getting Started](<http://www.msc-technologies.eu/fileadmin/documentpool/Support-Center/Qseven/Q7-BT/02-Manual/Getting_Started_Qseven_Starterkit_BT_EP6-004.pdf>)
+-   We recommend the [MSC Q7-SK-BT-EP6 starter kit][lnk-msc-q7-sk-bt-ep6]
+- 	For detailed information see [MSC Q7-BT][lnk-support-msc-q7-bt]
 -   Install Windows 10 and Visual Studio 2015 (any version, including Community edition) on the MSC Q7-BT device.
 
 <a name="Build"></a>
@@ -62,3 +63,6 @@ You should have the following items ready before beginning the process:
 [setup-devbox-windows]: https://github.com/Azure/azure-iot-sdks/blob/master/c/doc/devbox_setup.md
 [lnk-setup-iot-hub]: ../../setup_iothub.md
 [lnk-manage-iot-hub]: ../../manage_iot_hub.md
+[lnk-msc-q7-sk-bt-ep6]: <http://www.msc-technologies.eu/products/boards/qseven/msc-q7-sk-bt-ep6.html
+[lnk-support-msc-q7-bt]: http://www.msc-technologies.eu/support/boards/qseven/msc-q7-bt.html
+

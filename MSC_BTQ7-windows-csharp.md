@@ -33,7 +33,7 @@ You should have the following items ready before beginning the process:
 -   [Prepare your development environment][setup-devbox-windows]
 -   [Setup your IoT hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials][lnk-manage-iot-hub]
--   MSC Q7-BT device and baseboard.
+-   MSC Q7-BT device.
 
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device

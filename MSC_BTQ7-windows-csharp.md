@@ -63,6 +63,6 @@ You should have the following items ready before beginning the process:
 [setup-devbox-windows]: https://github.com/Azure/azure-iot-sdks/blob/master/c/doc/devbox_setup.md
 [lnk-setup-iot-hub]: ../../setup_iothub.md
 [lnk-manage-iot-hub]: ../../manage_iot_hub.md
-[lnk-msc-q7-sk-bt-ep6]: <http://www.msc-technologies.eu/products/boards/qseven/msc-q7-sk-bt-ep6.html
+[lnk-msc-q7-sk-bt-ep6]: http://www.msc-technologies.eu/products/boards/qseven/msc-q7-sk-bt-ep6.html
 [lnk-support-msc-q7-bt]: http://www.msc-technologies.eu/support/boards/qseven/msc-q7-bt.html
 
